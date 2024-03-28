@@ -1,0 +1,11 @@
+{
+  "name": "code-challenge---student-grade-generator",
+  "version": "1.0.0",
+  "description": "#### This involves 1 Toy Problem, 23/3/2024",
+  "main": "grade_generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
